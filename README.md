@@ -3,6 +3,12 @@ Check all contacts from a google account to see if there is repeated phone numbe
 
 # Guide to use
 1.- Create project on console.developers.google
+
 2.- Enable people api
+
 3.- Create credentials and download to the same folder
+
 4.- Run as python py-contacts
+
+# Disclaimer
+This software is delivered without any warranty. Please export a fresh copy of your contacts without using it.
